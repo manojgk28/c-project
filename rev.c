@@ -13,7 +13,7 @@ printf("\nEnter string to reverse");
   }
   j = count - 1;
 
-  //reversing the string by swapping
+  
   for (i = 0; i < count; i++)
   {
     rev[i] = str[j];
